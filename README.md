@@ -2,19 +2,6 @@
 
 A full-featured e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js).
 
----
-
-## 🎥 Demo
-
-<video width="100%" controls>
-  <source src="frontend/src/assets/images/Ecommers Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-_Watch the full demo to see the e-commerce app in action!_
-
----
-
 ## 🖼️ Screenshots
 
 | Home Page                             | Product Page                          | Cart                                  | Checkout                                  |
@@ -26,7 +13,7 @@ _Watch the full demo to see the e-commerce app in action!_
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/wRvTTlpbkqA/0.jpg)](https://youtu.be/wRvTTlpbkq)
+[![Watch the demo](https://img.youtube.com/vi/wRvTTlpbkqA/0.jpg)](https://youtu.be/wRvTTlpbkqA?list=PLFsQbAK6u_Mdk1jGu7dN3RqPA_oq7AxoA)
 
 _Click the image above to watch the full demo on YouTube!_
 
